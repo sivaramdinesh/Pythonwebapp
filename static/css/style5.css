@@ -1,0 +1,32 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    } 
+
+
+
+h1{
+    color: green;
+    text-align: center;
+    }
+#bullet{
+    list-style: none;
+    display: flex;
+}
+
+#bullet li{
+   color: blue;
+   font-weight: 500;
+   padding: 40px 40px ;
+} 
+input{
+    padding: 10px 80px;
+    margin: 120px 130px;
+}
+input
+{
+    padding-right: 10px 10px;
+    margin-right: 10px 10px;
+    }
+    
+
